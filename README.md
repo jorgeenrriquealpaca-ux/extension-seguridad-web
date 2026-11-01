@@ -1,5 +1,6 @@
 # Extensión de seguridad web
 Extensión para Chrome que analiza la URL de la página web que estás visitando y muestra un semáforo con avisos de posible phishing.
+
 Proyecto personal de aprendizaje, hecho durante mi formación en administración de sistemas informáticos en red (ASIX).
 
 ## Qué comprueba
@@ -14,6 +15,7 @@ Proyecto personal de aprendizaje, hecho durante mi formación en administración
 - ✅ Sin avisos
 - ⚠️ Un aviso
 - ⛔ Dos o más avisos
+
 **Importe:** ✅ no significa que la web sea de fiar. Solo indica que no se ha detectado ninguna de estas señales. Esta herramientas es educativa y no sustituye a un antivirus.
 
 ## Instalación
