@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "name": "Comprobador de seguridad",
+    "version": "0.1",
+    "description": "Revisa la seguridad de la web que visitas",
+    "action": { "default_popup": "popup.html" },
+    "permissions": ["activeTab"]
+}
